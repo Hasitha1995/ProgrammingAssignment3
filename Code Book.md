@@ -41,4 +41,4 @@ Entire numbers in activity_no column of the finaldataset replaced with correspon
 
 ### FA data set in step 4, that creates a second, independent tidy data set with the average of each variable for each activity and each subject
 second_dataset (180 rows, 88 columns) is created by sumarizing finaldata taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-Export FinalData into FinalData.txt file.
+Export second_dataset into Results.txt file.
