@@ -15,3 +15,7 @@ Markup : * Merging the training and the test sets.
         * Labeling data set with descriptive variable names.
         * A data set in step 4, that creates a second, independent tidy data set with the average of each variable for each activity and             each subject.
         * Results.txt is the final data after performing above steps.
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
