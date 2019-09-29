@@ -1,4 +1,4 @@
-## The script_assignment.R script performs required data preperation actions followed by a 5 step procedure specified by the assignment to convert the data set into a useble form
+## The run_analysis.R script performs required data preperation actions followed by a 5 step procedure specified by the assignment to convert the data set into a useble form
 
 ### Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
